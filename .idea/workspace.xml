@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38184e6d-391f-448e-bc30-f5f0fd10ce91" name="Default Changelist" comment="" />
+    <list default="true" id="38184e6d-391f-448e-bc30-f5f0fd10ce91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30-master/18 - Adding Up Times with Reduce/index-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript30-master/18 - Adding Up Times with Reduce/index-START.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +77,7 @@
       <workItem from="1579027356719" duration="4194000" />
       <workItem from="1579118767974" duration="6691000" />
       <workItem from="1579290126179" duration="631000" />
-      <workItem from="1579291437105" duration="2226000" />
+      <workItem from="1579291437105" duration="2664000" />
     </task>
     <task id="LOCAL-00001" summary="Repeated day 1">
       <created>1570338619211</created>
