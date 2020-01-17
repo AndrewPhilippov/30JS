@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38184e6d-391f-448e-bc30-f5f0fd10ce91" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RnasO9OxDW0hzEJKK8BFyvA2FW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38184e6d-391f-448e-bc30-f5f0fd10ce91" name="Default Changelist" comment="" />
+      <created>1570305519277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570305519277</updated>
+      <workItem from="1570305520442" duration="3677000" />
+      <workItem from="1571025107112" duration="4056000" />
+      <workItem from="1571633289172" duration="646000" />
+      <workItem from="1571640765928" duration="20000" />
+      <workItem from="1577887246179" duration="16820000" />
+      <workItem from="1578140826079" duration="57000" />
+      <workItem from="1578140926280" duration="3653000" />
+      <workItem from="1578158837181" duration="1732000" />
+      <workItem from="1578211790552" duration="4607000" />
+      <workItem from="1578334311245" duration="2189000" />
+      <workItem from="1578383782141" duration="2310000" />
+      <workItem from="1578599349702" duration="9457000" />
+      <workItem from="1578845260932" duration="2724000" />
+      <workItem from="1578941446696" duration="3524000" />
+      <workItem from="1579027356719" duration="4194000" />
+      <workItem from="1579118767974" duration="6691000" />
+      <workItem from="1579290126179" duration="631000" />
+      <workItem from="1579291437105" duration="1925000" />
+    </task>
+    <task id="LOCAL-00001" summary="Repeated day 1">
+      <created>1570338619211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570338619211</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day 2 complete with class implemented">
+      <created>1571028408307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571028408307</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Spacing fixed">
+      <created>1571028593479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571028593479</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Spacing fixed">
+      <created>1577887553284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577887553284</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Array cardio Day 1">
+      <created>1577902909912</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577902909912</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Flex Gallery">
+      <created>1577954439044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577954439044</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ajax Ahead data handling">
+      <created>1578144453492</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578144453492</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Day II Array some, every, find and findIndex cardio">
+      <created>1578160235351</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578160235351</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Day II Array some, every, find and findIndex cardio">
+      <created>1578160246727</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578160246727</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Canvas sample">
+      <created>1578215884836</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578215884836</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Checking multiple checkboxes when shiftkey is down">
+      <created>1578386075096</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578386075096</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Working on video player customisation">
+      <created>1578603179259</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1578603179259</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Video player customisation is completed">
+      <created>1578683781905</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1578683781905</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Crazy Unicoooorns!!!!">
+      <created>1578735780588</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1578735780588</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Sliding effect for images added">
+      <created>1578851899258</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1578851899258</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Sliding effect for images added">
+      <created>1578851931021</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1578851931021</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Reference and copying types in JS">
+      <created>1578944368047</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1578944368047</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Using mousemove event to handle textShadow">
+      <created>1579120891087</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1579120891087</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Useful sort method with regex replace">
+      <created>1579206805778</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1579206805778</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Cosmetics">
+      <created>1579290200626</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1579290200626</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Repeated day 1" />
+    <MESSAGE value="Day 2 complete with class implemented" />
+    <MESSAGE value="Spacing fixed" />
+    <MESSAGE value="Array cardio Day 1" />
+    <MESSAGE value="Flex Gallery" />
+    <MESSAGE value="Ajax Ahead data handling" />
+    <MESSAGE value="Day II Array some, every, find and findIndex cardio" />
+    <MESSAGE value="Canvas sample" />
+    <MESSAGE value="Checking multiple checkboxes when shiftkey is down" />
+    <MESSAGE value="Working on video player customisation" />
+    <MESSAGE value="Video player customisation is completed" />
+    <MESSAGE value="Crazy Unicoooorns!!!!" />
+    <MESSAGE value="Sliding effect for images added" />
+    <MESSAGE value="Reference and copying types in JS" />
+    <MESSAGE value="Using mousemove event to handle textShadow" />
+    <MESSAGE value="Useful sort method with regex replace" />
+    <MESSAGE value="Cosmetics" />
+    <MESSAGE value="Calculating total time of videos, provided in data-time attributes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculating total time of videos, provided in data-time attributes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="96" key="#Notifications" timestamp="1579293086015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="96" key="#Notifications/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1579293086015" />
+    <state x="475" y="197" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578600251671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="197" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1578600251671" />
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1579293141880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1682" y="0" key="CommitChangelistDialog2/-1920.0.1536.800/0.0.1920.1040@-1920.0.1536.800" timestamp="1579120889906" />
+    <state x="305" y="0" key="CommitChangelistDialog2/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1579293141880" />
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579206805323" />
+    <state x="624" y="139" key="FileChooserDialogImpl" timestamp="1579293388168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="139" key="FileChooserDialogImpl/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1579293388168" />
+    <state x="499" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577955340584" />
+    <state x="326" y="101" key="Vcs.Push.Dialog.v2" timestamp="1579293219273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1659" y="78" key="Vcs.Push.Dialog.v2/-1920.0.1536.800/0.0.1920.1040@-1920.0.1536.800" timestamp="1579120893587" />
+    <state x="326" y="101" key="Vcs.Push.Dialog.v2/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1579293219273" />
+    <state x="261" y="80" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579206808010" />
+    <state x="398" y="75" width="740" height="674" key="find.popup" timestamp="1578601309083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="398" y="75" width="740" height="674" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1578601309083" />
+    <state x="759" y="394" key="git4idea.ui.GitResetDialog" timestamp="1579293012635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="394" key="git4idea.ui.GitResetDialog/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1579293012635" />
+    <state x="-1579" y="178" key="run.anything.popup" timestamp="1578736016063">
+      <screen x="-1920" y="0" width="1536" height="800" />
+    </state>
+    <state x="-1579" y="178" key="run.anything.popup/-1920.0.1536.800/0.0.1920.1040@-1920.0.1536.800" timestamp="1578736016063" />
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1577900934394" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1578851233864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578851233864" />
+  </component>
+</project>
