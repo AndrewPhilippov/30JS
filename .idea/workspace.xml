@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="38184e6d-391f-448e-bc30-f5f0fd10ce91" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript30-master/25 - Event Capture, Propagation, Bubbling and Once/index-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript30-master/25 - Event Capture, Propagation, Bubbling and Once/index-START.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript30-master/26 - Stripe Follow Along Nav/index-START.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript30-master/26 - Stripe Follow Along Nav/index-START.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,8 @@
       <workItem from="1579544741646" duration="3968000" />
       <workItem from="1579631526215" duration="2958000" />
       <workItem from="1579716578961" duration="3865000" />
-      <workItem from="1579811199462" duration="2595000" />
+      <workItem from="1579811199462" duration="2969000" />
+      <workItem from="1579955952983" duration="4897000" />
     </task>
     <task id="LOCAL-00001" summary="Repeated day 1">
       <created>1570338619211</created>
@@ -296,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579812099136</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Bubbling">
+      <created>1579898008225</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1579898008225</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +324,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Repeated day 1" />
     <MESSAGE value="Day 2 complete with class implemented" />
     <MESSAGE value="Spacing fixed" />
     <MESSAGE value="Array cardio Day 1" />
@@ -341,7 +348,8 @@
     <MESSAGE value="Smooth nice-looking animation with transform change" />
     <MESSAGE value="SpeechSynthesis" />
     <MESSAGE value="Sticky nav" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sticky nav" />
+    <MESSAGE value="Bubbling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bubbling" />
   </component>
   <component name="WindowStateProjectService">
     <state x="453" y="96" key="#Notifications" timestamp="1579293086015">
@@ -352,10 +360,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="475" y="197" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1578600251671" />
-    <state x="-1418" y="0" key="CommitChangelistDialog2" timestamp="1579812098482">
+    <state x="-1418" y="0" key="CommitChangelistDialog2" timestamp="1579898006917">
       <screen x="-1920" y="0" width="1536" height="800" />
     </state>
-    <state x="-1418" y="0" key="CommitChangelistDialog2/-1920.0.1536.800/0.0.1920.1040@-1920.0.1536.800" timestamp="1579812098482" />
+    <state x="-1418" y="0" key="CommitChangelistDialog2/-1920.0.1536.800/0.0.1920.1040@-1920.0.1536.800" timestamp="1579898006917" />
     <state x="305" y="0" key="CommitChangelistDialog2/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1579294109015" />
     <state x="244" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579548192974" />
     <state x="624" y="139" key="FileChooserDialogImpl" timestamp="1579293388168">
@@ -363,16 +371,16 @@
     </state>
     <state x="624" y="139" key="FileChooserDialogImpl/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1579293388168" />
     <state x="499" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577955340584" />
-    <state x="-1659" y="78" key="Vcs.Push.Dialog.v2" timestamp="1579812307514">
+    <state x="-1659" y="78" key="Vcs.Push.Dialog.v2" timestamp="1579898010856">
       <screen x="-1920" y="0" width="1536" height="800" />
     </state>
-    <state x="-1659" y="78" key="Vcs.Push.Dialog.v2/-1920.0.1536.800/0.0.1920.1040@-1920.0.1536.800" timestamp="1579812307514" />
+    <state x="-1659" y="78" key="Vcs.Push.Dialog.v2/-1920.0.1536.800/0.0.1920.1040@-1920.0.1536.800" timestamp="1579898010856" />
     <state x="326" y="101" key="Vcs.Push.Dialog.v2/-1920.0.1536.800/0.0.1920.1040@0.0.1920.1040" timestamp="1579294136468" />
     <state x="261" y="80" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579548197247" />
-    <state x="-1522" y="34" width="892" height="766" key="find.popup" timestamp="1579719326308">
+    <state x="-1522" y="34" width="892" height="766" key="find.popup" timestamp="1579957382531">
       <screen x="-1920" y="0" width="1536" height="800" />
     </state>
-    <state x="-1522" y="34" width="892" height="766" key="find.popup/-1920.0.1536.800/0.0.1920.1040@-1920.0.1536.800" timestamp="1579719326308" />
+    <state x="-1522" y="34" width="892" height="766" key="find.popup/-1920.0.1536.800/0.0.1920.1040@-1920.0.1536.800" timestamp="1579957382531" />
     <state x="398" y="75" width="740" height="674" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1578601309083" />
     <state x="759" y="394" key="git4idea.ui.GitResetDialog" timestamp="1579293012635">
       <screen x="0" y="0" width="1920" height="1040" />
