@@ -25,7 +25,6 @@ function displayTimeLeft(seconds) {
     const displayTime = `${minutes}:${remainderSeconds < 10 ? '0' + remainderSeconds : remainderSeconds}`
     timeDisplay.textContent = displayTime;
     document.title = displayTime;
-    console.log({minutes, remainderSeconds})
 }
 
 function displayEndTime(timeStamp) {
@@ -41,7 +40,7 @@ function startTimer() {
 }
 
 buttons.forEach(button => button.addEventListener('click', startTimer));
-document.customForm.addEventListener('submit', function(e) {
+document.customForm.addEventListener('submit', function (e) {
     e.preventDefault();
     const mins = parseInt(this.minutes.value)
     timer(mins * 60);
